@@ -1,0 +1,2 @@
+# Airport-Management-System-with-all-necessary-features
+The Airport Management System is a GUI application using Python's tkinter library for efficient flight detail management. Users can search, view, update, and add flight information. Future improvements may include data storage and real-time updates. Developed by Iqra University students, it highlights Python's potential in airport management.
